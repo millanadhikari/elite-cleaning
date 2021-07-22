@@ -1,0 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+}
+:root{
+  --primary:#90afc5;
+  --secondary:#336b87;
+  --text:#2a3132;
+  --button:#762636;
+}

@@ -1,0 +1,19 @@
+.Quotation{
+    position: absolute;
+    top:60px;
+    z-index: 100;
+    background-color: var(--text);
+    color:white;
+    padding:20px 0px;
+}
+
+@media screen and (min-width: 700px){
+    .Quotation{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        position: absolute;
+        top:60px;
+        z-index: 100;
+    }
+}

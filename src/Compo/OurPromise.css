@@ -1,0 +1,18 @@
+.icon__promise{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    background-color: var(--text);
+    color: var(--button);
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding-top: 12px;
+}
+.promises{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin:25px 0px;
+}
